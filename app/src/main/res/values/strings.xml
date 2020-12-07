@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VoiceRecorder</string>
+    <string name="record_fragment">Record</string>
+    <string name="saved_files_fragment">Saved</string>
+    <string name="toast_recording_start">Recording in progress</string>
+    <string name="toast_recording_stop">Recording stopped</string>
+    <string name="storage_error">Storage Error</string>
+    <string name="send_to">Send To</string>
+    <string name="play_with">Play With</string>
+    <string name="play_button_content_description">Play Button</string>
+    <string name="share_button_content_description">Share Button</string>
+</resources>
